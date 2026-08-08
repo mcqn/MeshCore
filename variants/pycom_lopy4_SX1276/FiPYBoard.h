@@ -62,6 +62,6 @@ public:
   }
 
   const char* getManufacturerName() const override {
-    return "Pycom Fipy V1.0";
+    return "Pycom Lopy4 V1.0";
   }
 };
